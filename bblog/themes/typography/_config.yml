@@ -1,0 +1,25 @@
+title_primary: "游戏 · 设计" # the bigger text
+title_secondary: "BINGxGamexDesign" # the smaller text
+keywords: game design blog 游戏 设计 博客
+
+twitter: username
+rss: atom.xml
+weibo: BING2213
+instagram: BING2213
+github: BING2213
+
+# Choose the comment service according to your need.
+# Please do not use the two services at the same time.
+livere: # [data-uid] on livere.com
+disqus: # [short_name] on disqus.com
+dove: # For fun ONLY. Set to true to 'disable' comments on your site.
+
+# Set true to show the page indicator.
+showPageCount: true
+
+# Set true to show category or tags behind post titles
+showCategories: true
+showTags: true
+
+# Color scheme
+themeStyle: light # light/dark

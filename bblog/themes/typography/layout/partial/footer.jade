@@ -1,0 +1,10 @@
+footer
+    - var currYear = new Date().getYear() + 1900;
+    p &copy;&nbsp;
+        !=currYear
+        | &nbsp;
+        a(target="_blank", href=config.url,  rel="noopener noreferrer")!=theme.author ? theme.author : config.author ? config.author : config.title
+    p SITE &nbsp;
+        a(target="_blank", href="https://bing2213.fun", rel="noopener noreferrer") BING2213.FUN
+    p MAIL &nbsp;
+        a(target="_blank", href="mailto:2213@bing2213.com", rel="noopener noreferrer") BING2213.COM
